@@ -1,0 +1,23 @@
+Column,DType
+Fecha consumo,str
+Corral,float64
+Consumo Corral,float64
+Pasta de soya seco,float64
+Maiz molido seco,float64
+Silo de Maiz seco,float64
+Silo de Avena seco,float64
+Triticale_seca,float64
+PataCebada_seca,float64
+OroMilk_seca,float64
+Melaza_seca,float64
+Oro Balance seco,float64
+Agua_kg,float64
+Total_MS_Dieta Seco,float64
+consumo (kg),float64
+sobrante (kg),str
+% rechazo,str
+Fecha Ordeño,str
+ID_vaca,int64
+Produccion_total_kg,float64
+Numero_Ordeños,int64
+Corral de ordeño,str

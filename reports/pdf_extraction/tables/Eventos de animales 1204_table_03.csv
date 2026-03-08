@@ -1,0 +1,39 @@
+Evento,,Tipo de evento,"Fecha
+del
+evento",Descripción,Usuario,Comentario,source_page,source_table
+,,Invitación Visita,12/09/2,"12/09/2024, Diagnostico de
+Gestacion (>40 dias insem)",DR RAFA (,,3,1
+,,Cambio tabla ali,25/08/2,"primerizas-DEL -> Primerizas-
+ProduccionLeche",Admin,,3,1
+,,Inseminación,02/08/2,"Artificial Insemination;
+8403203292278; GRANADA;
+Unknown Brand; MVZ. GUADALUPE
+LOPEZ",MVZ. GUA,utero no turgente,3,1
+,,Celo,02/08/2,Herd Navigator,MVZ. GUA,,3,1
+,,Diagnósticos/Tr,30/05/2,"Dns: VITAMINA; Loc.: DD; Trat: ;
+Med:",User1,"CALFON 30 ML
+COMPLEJO B12 25 ML",3,1
+,,Diagnósticos/Tr,30/05/2,Dns: ALTA; Loc.: DD; Trat: ; Med:,User1,,3,1
+,,Diagnósticos/Tr,16/05/2,"Dns: Limpiando; Loc.: DD; Trat: ;
+Med:",User1,,3,1
+,,Cambio de grup,14/05/2,"3, VMS 3 -> 1, VMS 1",User1,,3,1
+,,Diagnósticos/Tr,09/05/2,"Dns: Limpiando; Loc.: DD; Trat: ;
+Med:",User1,,3,1
+,,Cambio tabla ali,07/05/2,None -> primerizas-DEL,Admin,,3,1
+,,Cambio de grup,06/05/2,"20, RETO -> 3, VMS 3",User1,,3,1
+,,Parto,06/05/2,Normal; 1631,User1,,3,1
+Nº Lactación 0,,,,,,,3,1
+,,Cambio ID Tran,25/04/2,-> 982000464364580,,,3,1
+,,Condición corpo,25/04/2,Condición corporal: 3.25 - DDUP: 0,User1,,3,1
+,,Cambio de grup,25/04/2,"100, SECAS -> 20, RETO",User1,,3,1
+,,Diagnósticos/Tr,25/04/2,"Dns: VACUNA; Loc.: DD; Trat:
+starvacc; Med: STARVAC 1 d 1X2ml
+Intramuscular",User1,,3,1
+,,Diagnósticos/Tr,25/04/2,"Dns: BOLO RUMENSIN; Loc.: DD;
+Trat: BOLO RUMENSIN; Med: BOLO
+RUMENSIN 1 d 1X1pcs",User1,007591,3,1
+,,Cambio de grup,22/03/2,"106, BECERRAS/NOVILLAS -> 100,
+SECAS",User1,,3,1
+,,Diagnósticos/Tr,22/03/2,"Dns: VACUNA; Loc.: DD; Trat:
+ROTAVEC; Med:",User1,,3,1
+,,Control de Gest,04/01/2,+,User1,,3,1

@@ -1,0 +1,23 @@
+Column,DType,UniqueValues
+Produccion_total_kg,float64,2244
+Consumo Corral,float64,318
+consumo (kg),float64,310
+Fecha consumo,str,268
+% rechazo,str,105
+sobrante (kg),str,88
+Fecha Ordeño,str,79
+ID_vaca,int64,64
+Corral,float64,6
+Numero_Ordeños,int64,3
+Oro Balance seco,float64,3
+Agua_kg,float64,3
+Triticale_seca,float64,3
+OroMilk_seca,float64,3
+Corral de ordeño,str,3
+Total_MS_Dieta Seco,float64,3
+Pasta de soya seco,float64,2
+Maiz molido seco,float64,2
+Silo de Maiz seco,float64,2
+Melaza_seca,float64,2
+Silo de Avena seco,float64,2
+PataCebada_seca,float64,2

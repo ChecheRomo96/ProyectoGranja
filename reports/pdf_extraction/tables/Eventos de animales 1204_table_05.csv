@@ -1,0 +1,6 @@
+Evento,,Tipo de evento,"Fecha
+del
+evento",Descripción,Usuario,Comentario,source_page,source_table
+,,Cambio ID,01/07/2,99980 -> 1204,User1,,5,1
+,,Cambio ID,08/06/2,2003 -> 99980,User1,,5,1
+,,Entrada,05/06/2,Nacimiento,User1,,5,1
