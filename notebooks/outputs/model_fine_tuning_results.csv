@@ -1,0 +1,4 @@
+model,best_cv_score_neg_mae,test_RMSE,test_MAE,test_R2,best_params
+HistGradientBoosting,-9.154063895671928,10.260970568008,8.180042067311321,0.13100260431476163,"{'model__min_samples_leaf': 30, 'model__max_iter': 500, 'model__max_depth': 4, 'model__learning_rate': 0.01, 'model__l2_regularization': 5.0}"
+ExtraTrees,-9.199421589485743,10.39240580114784,8.321934718132532,0.10859763000682743,"{'model__n_estimators': 200, 'model__min_samples_split': 10, 'model__min_samples_leaf': 1, 'model__max_features': 1.0, 'model__max_depth': 12}"
+RandomForest,-9.137118047910075,10.492456321889172,8.434722877258237,0.09135146420659879,"{'model__n_estimators': 500, 'model__min_samples_split': 20, 'model__min_samples_leaf': 2, 'model__max_features': 0.5, 'model__max_depth': 8}"
